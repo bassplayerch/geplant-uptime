@@ -4,7 +4,7 @@
     "url": "https://app.geplant.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.geplant.io.ico",
     "slug": "geplant-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 6065,
     "timeMonth": 6305,
     "timeYear": 6538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-14": 0
+    }
   },
   {
     "name": "Geplant Landing Page",
