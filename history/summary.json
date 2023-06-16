@@ -6,15 +6,15 @@
     "slug": "geplant-app",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 6592,
-    "timeDay": 8478,
-    "timeWeek": 6438,
-    "timeMonth": 6421,
-    "timeYear": 6592,
+    "time": 6608,
+    "timeDay": 7774,
+    "timeWeek": 6395,
+    "timeMonth": 6416,
+    "timeYear": 6608,
     "dailyMinutesDown": {
       "2023-06-14": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 39,
-    "timeWeek": 181,
-    "timeMonth": 610,
-    "timeYear": 577,
+    "time": 573,
+    "timeDay": 243,
+    "timeWeek": 166,
+    "timeMonth": 595,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   }
 ]
