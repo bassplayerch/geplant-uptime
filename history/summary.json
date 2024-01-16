@@ -24,19 +24,19 @@
     "url": "http://geplant.io/",
     "icon": "https://icons.duckduckgo.com/ip3/geplant.io.ico",
     "slug": "geplant-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 284,
-    "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 170,
+    "timeWeek": 168,
+    "timeMonth": 196,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 20
     }
   }
 ]
