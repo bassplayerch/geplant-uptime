@@ -4,7 +4,7 @@
     "url": "https://app.geplant.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.geplant.io.ico",
     "slug": "geplant-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 247,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-09-04": 23,
       "2025-08-30": 20,
       "2025-08-28": 17,
@@ -30,7 +31,7 @@
     "url": "http://geplant.io/",
     "icon": "https://icons.duckduckgo.com/ip3/geplant.io.ico",
     "slug": "geplant-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +43,7 @@
     "timeMonth": 603,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-09-04": 23,
       "2025-08-30": 20,
       "2025-08-28": 17,
