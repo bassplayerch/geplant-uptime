@@ -1,7 +1,7 @@
 url: http://geplant.io/
-status: up
-code: 200
-responseTime: 1238
-lastUpdated: 2026-02-04T23:18:02.214Z
+status: down
+code: 403
+responseTime: 210
+lastUpdated: 2026-02-05T17:33:09.704Z
 startTime: 2023-04-06T08:11:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
